@@ -10,4 +10,4 @@ Community-based application that will browse the songs of your childhood.
 
 > MySQL
 
-> React
+> React / Next.js
